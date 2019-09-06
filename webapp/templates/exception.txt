@@ -1,0 +1,12 @@
+500 INTERNAL SERVER ERROR
+
+This is a result of the following exception:
+
+---
+
+{{message}}
+
+---
+
+Note that status code in the exception above, if there is one, is not the status code returned in the HTTP headers with this response.
+If you are seeing this, the status code returned was 500.
