@@ -122,7 +122,3 @@ Adjunct to these instructions, the following points may help:
   ```
 
 * Lazy Git itself uses [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) to connect to DynamoDB. The section of the Boto3 documentation relating to [DynamoDB](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/dynamodb.html) might be helpful.
-
-## Contact
-
-* james.smith@glgroup.com
